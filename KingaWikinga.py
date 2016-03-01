@@ -1,0 +1,1 @@
+print "Moze sie uda"
